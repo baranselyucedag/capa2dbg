@@ -1,0 +1,21 @@
+{
+  "capa_path": "",
+  "label_category_prefix": true,
+  "cache_enabled": true,
+  "cache_dir": "",
+  "cache_max_mb": 512,
+  "cache_adopt_manual": true,
+  "breakpoint_namespaces": [
+    "host-interaction/process",
+    "host-interaction/thread",
+    "host-interaction/registry",
+    "data-manipulation",
+    "persistence",
+    "linking/runtime-linking",
+    "collection",
+    "host-interaction/clipboard",
+    "anti-analysis",
+    "communication",
+    "c2"
+  ]
+}
